@@ -1,9 +1,11 @@
-function maxTriSum(numbers){
-    return numbers.sort((w, u) => w - u).reverse().filter((item, index, arr) => arr.indexOf(item) === index).slice(0,3).reduce((a,b)=>a+b);   
+function maxTriSum(numbers) {
+    return numbers.sort((w, u) => w - u).reverse().filter((item, index, arr) => arr.indexOf(item) === index).slice(0, 3).reduce((a, b) => a + b);
 }
 
 
 // console.log(maxTriSum([3,2,6,8,2,3]));
+
+
 
 // Учитывая массив / список[] из n целых чисел, найти максимальную сумму троек в массиве без повторений.
 // Примечания :
