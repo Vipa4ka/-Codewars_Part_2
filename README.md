@@ -4,9 +4,9 @@
 <!-- **1 7 kyu https://www.codewars.com/kata/add-property-to-every-object-in-array -->
 <!-- **1 7 kyu https://www.codewars.com/kata/colour-association -->
 <!-- -- 1 7 kyu https://www.codewars.com/kata/combine-objects -->
-<!-- 7 kyu https://www.codewars.com/kata/count-the-digit 7 kyu -->
-<!-- https://www.codewars.com/kata/find-the-missing-element-between-two-arrays 7 kyu -->
-<!-- https://www.codewars.com/kata/get-decimal-part-of-the-given-number 7 kyu -->
+<!-- ** 7 kyu https://www.codewars.com/kata/count-the-digit 7 kyu -->
+<!-- ** https://www.codewars.com/kata/find-the-missing-element-between-two-arrays 7 kyu -->
+<!-- ** https://www.codewars.com/kata/get-decimal-part-of-the-given-number 7 kyu -->
 <!-- https://www.codewars.com/kata/maximum-triplet-sum-array-series-number-7 7 kyu -->
 <!-- https://www.codewars.com/kata/mylanguages 7 kyu -->
 <!-- https://www.codewars.com/kata/nickname-generator 7 kyu -->
